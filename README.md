@@ -1,4 +1,4 @@
 # DevOpsExamples
-Repository with examples for DevOps university course
+Репозитрий с материалами к курсу DevOps 
 
-[DevOps roadmap](https://roadmap.sh/devops)
+[Дорожная карта DevOps](https://roadmap.sh/devops)
