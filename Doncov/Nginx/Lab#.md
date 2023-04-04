@@ -99,3 +99,6 @@ tEXTERNAL_URL     = http://localhost:3000/git/
 Теперь у нас есть сертификат для сайта (хоть и не подтверждённый)
 
 ![image](https://user-images.githubusercontent.com/66121979/229881931-4e9776cd-803e-4f6e-ae4f-b81ac6d1dbe0.png)
+
+![image](https://user-images.githubusercontent.com/66121979/229882193-a10641ac-2c46-41e1-a728-e4287766100b.png)
+
